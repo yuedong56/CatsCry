@@ -43,6 +43,7 @@
 		3029FB5F1A4AC2CE00472F6B /* CatsCryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CatsCryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3029FB641A4AC2CE00472F6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3029FB651A4AC2CE00472F6B /* CatsCryTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CatsCryTests.m; sourceTree = "<group>"; };
+		354815241B9FF1BB00340CE7 /* Notes-V2.5.apk */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Notes-V2.5.apk"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +91,7 @@
 				3029FB4E1A4AC2CE00472F6B /* FirstViewController.m */,
 				3029FB501A4AC2CE00472F6B /* SecondViewController.h */,
 				3029FB511A4AC2CE00472F6B /* SecondViewController.m */,
+				354815241B9FF1BB00340CE7 /* Notes-V2.5.apk */,
 				3029FB531A4AC2CE00472F6B /* Main.storyboard */,
 				3029FB561A4AC2CE00472F6B /* Images.xcassets */,
 				3029FB581A4AC2CE00472F6B /* LaunchScreen.xib */,
@@ -418,6 +420,7 @@
 				3029FB6B1A4AC2CE00472F6B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3029FB6C1A4AC2CE00472F6B /* Build configuration list for PBXNativeTarget "CatsCryTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +429,7 @@
 				3029FB6E1A4AC2CE00472F6B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
